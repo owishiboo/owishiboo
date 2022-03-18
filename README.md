@@ -13,13 +13,9 @@
   - [ ] MongoDB
   - [x] Linux
 
-### Connect with me:
+<!-- ### Connect with me:
 
-&nbsp;&nbsp;
-[![website](./img/twitter-light.svg)](https://twitter.com/nowshin_owishi#gh-light-mode-only)
-&nbsp;&nbsp;
-[![website](./img/twitter-dark.svg)](https://twitter.com/nowshin_owishi#gh-dark-mode-only)
-&nbsp;&nbsp;
+[![website](./img/twitter-light.svg)](https://twitter.com/nowshin_owishi) -->
 
 ### Languages and Tools:
 
