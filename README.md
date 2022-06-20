@@ -1,4 +1,4 @@
-[![Header](https://i.imgur.com/tJsN2bP.png)](https://github.com/owishiboo)
+<!-- [![Header](https://i.imgur.com/tJsN2bP.png)](https://github.com/owishiboo) -->
 
 <p align="center">
   <a href="mailto:nalamowishi999@gmail.com"><img height="30" src="https://i.imgur.com/FOxl535.png"></a>
