@@ -20,9 +20,9 @@
 ![badge-linux](https://img.shields.io/badge/os-linux-2E4053?style=for-the-badge&logo=linux&logoColor=2E4053&labelColor=AED6F1)
 
 <p align="center" >
-  <img  height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=owishiboo&hide=html,makefile&bg_color=AED6F1&title_color=2E4053&text_color=fff&count_private=true&langs_count=5" />
+  <img  height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=owishiboo&hide=html,makefile&bg_color=AED6F1&title_color=2E4053&text_color=2E4053&count_private=true&langs_count=5" />
 
-  <img height="200" src="https://github-readme-stats.vercel.app/api?username=owishiboo&bg_color=AED6F1&title_color=2E4053&text_color=fff&show_icons=true&icon_color=fff&count_private=true" />
+  <img height="200" src="https://github-readme-stats.vercel.app/api?username=owishiboo&bg_color=AED6F1&title_color=2E4053&text_color=2E4053&show_icons=true&icon_color=2E4053&count_private=true" />
 </p>
 <p align="center" >
   <img height="200" src="https://github-profile-trophy.vercel.app/?username=owishiboo&theme=gruvbox&row=2&margin-w=5&margin-h=5&count_private=true"/>
