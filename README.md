@@ -9,15 +9,15 @@
 
 ## ⚙️ Tools & Technologies
 
-<!-- yellow f6c819 , navy-blue 21223e white fffff -->
-
-![badge-cpp](https://img.shields.io/badge/language-c%2B%2B-f6c819?style=for-the-badge&logo=c%2B%2B&logoColor=white&labelColor=21223e)
-![badge-java](https://img.shields.io/badge/code-java-f6c819?style=for-the-badge&logo=java&logoColor=white&labelColor=21223e)
-![badge-javascript](https://img.shields.io/badge/code-javascript-f6c819?style=for-the-badge&logo=javascript&logoColor=white&labelColor=21223e)
-![badge-node](https://img.shields.io/badge/framework-node_js-f6c819?style=for-the-badge&logo=npm&logoColor=white&labelColor=21223e)
-![badge-firebase](https://img.shields.io/badge/database-firebase-f6c819?style=for-the-badge&logo=firebase&logoColor=white&labelColor=21223e)
-![badge-postgresql](https://img.shields.io/badge/database-postgresql-f6c819?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=21223e)
-![badge-linux](https://img.shields.io/badge/os-linux-f6c819?style=for-the-badge&logo=linux&logoColor=white&labelColor=21223e)
+![badge-cpp](https://img.shields.io/badge/language-c%2B%2B-D6EAF8?style=for-the-badge&logo=c%2B%2B&logoColor=white&labelColor=AED6F1)
+![badge-java](https://img.shields.io/badge/code-java-D6EAF8?style=for-the-badge&logo=java&logoColor=white&labelColor=AED6F1)
+![badge-javascript](https://img.shields.io/badge/code-javascript-D6EAF8?style=for-the-badge&logo=javascript&logoColor=white&labelColor=21223e)
+![badge-node](https://img.shields.io/badge/framework-node_js-D6EAF8?style=for-the-badge&logo=npm&logoColor=white&labelColor=AED6F1)
+![badge-next](https://img.shields.io/badge/framework-next-D6EAF8?style=for-the-badge&logo=npm&logoColor=white&labelColor=AED6F1)
+![badge-firebase](https://img.shields.io/badge/database-firebase-D6EAF8?style=for-the-badge&logo=firebase&logoColor=white&labelColor=AED6F1)
+![badge-react](https://img.shields.io/badge/library-react-D6EAF8?style=for-the-badge&logo=react&logoColor=white&labelColor=AED6F1)
+![badge-postgresql](https://img.shields.io/badge/database-postgresql-D6EAF8?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=AED6F1)
+![badge-linux](https://img.shields.io/badge/os-linux-f6c819?style=for-the-badge&logo=linux&logoColor=white&labelColor=AED6F1)
 
 <p align="center" >
   <img  height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=owishiboo&hide=html,makefile&bg_color=21223e&title_color=f6c819&text_color=fff&count_private=true&langs_count=5" />
