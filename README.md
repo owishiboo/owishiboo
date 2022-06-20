@@ -14,9 +14,11 @@
 ![badge-javascript](https://img.shields.io/badge/code-javascript-2E4053?style=for-the-badge&logo=javascript&logoColor=2E4053&labelColor=AED6F1)
 ![badge-node](https://img.shields.io/badge/framework-node_js-2E4053?style=for-the-badge&logo=npm&logoColor=2E4053&labelColor=AED6F1)
 ![badge-next](https://img.shields.io/badge/framework-next-2E4053?style=for-the-badge&logo=npm&logoColor=2E4053&labelColor=AED6F1)
+![badge-mantine](https://img.shields.io/badge/framework-mantine-2E4053?style=for-the-badge&logo=npm&logoColor=2E4053&labelColor=AED6F1)
 ![badge-firebase](https://img.shields.io/badge/database-firebase-2E4053?style=for-the-badge&logo=firebase&logoColor=2E4053&labelColor=AED6F1)
-![badge-react](https://img.shields.io/badge/library-react-2E4053?style=for-the-badge&logo=react&logoColor=2E4053&labelColor=AED6F1)
 ![badge-postgresql](https://img.shields.io/badge/database-postgresql-2E4053?style=for-the-badge&logo=postgresql&logoColor=2E4053&labelColor=AED6F1)
+![badge-mysql](https://img.shields.io/badge/database-mysql-2E4053?style=for-the-badge&logo=mysql&logoColor=2E4053&labelColor=AED6F1)
+![badge-react](https://img.shields.io/badge/library-react-2E4053?style=for-the-badge&logo=react&logoColor=2E4053&labelColor=AED6F1)
 ![badge-linux](https://img.shields.io/badge/os-linux-2E4053?style=for-the-badge&logo=linux&logoColor=2E4053&labelColor=AED6F1)
 
 <p align="center" >
